@@ -1,0 +1,54 @@
+
+
+
+----------------------------------
+Enter no of processes
+8
+Enter process [1] id :
+1
+Enter process [1] burst time :
+4
+Enter process [2] id :
+2
+Enter process [2] burst time :
+3
+Enter process [3] id :
+3
+Enter process [3] burst time :
+5
+Enter process [4] id :
+4
+Enter process [4] burst time :
+8
+Enter process [5] id :
+5
+Enter process [5] burst time :
+1
+Enter process [6] id :
+6
+Enter process [6] burst time :
+3
+Enter process [7] id :
+7
+Enter process [7] burst time :
+2
+Enter process [8] id :
+8
+Enter process [8] burst time :
+4
+| process id |    burst time  |   waiting time |
+  1			4		0
+  2			3		4
+  3			5		7
+  4			8		12
+  5			1		20
+  6			3		21
+  7			2		24
+  8			4		26
+
+
+Average waiting time :14.25 units.
+
+
+----------------------------------
+
